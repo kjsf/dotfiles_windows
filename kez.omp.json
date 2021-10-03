@@ -43,7 +43,7 @@
           "foreground": "lightYellow",
           "properties": {
             "branch_icon": "",
-            "display_status": true,
+            "display_status": false,
             "postfix": ""
           }
         },
@@ -62,7 +62,8 @@
           "foreground": "#DCB977",
           "properties": {
             "display_exit_code": false,
-            "postfix": ""
+            "postfix": "",
+            "prefix": ""
           }
         }
       ]
